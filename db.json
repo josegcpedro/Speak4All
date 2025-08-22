@@ -1,3 +1,29 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": "1",
+      "nom": "Alice",
+      "messages": []
+    },
+    {
+      "id": "2",
+      "nom": "Bob",
+      "messages": []
+    },
+    {
+      "id": "3",
+      "nom": "Charlie",
+      "messages": []
+    },
+    {
+      "id": "28ea",
+      "nom": "aa",
+      "messages": []
+    },
+    {
+      "id": "085a",
+      "nom": "caca",
+      "messages": []
+    }
+  ]
 }
